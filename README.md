@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mikkuwu, Mikko if you want :)
+- 👀 I’m interested in Web development and mobile app development
+- 🌱 I’m currently learning Flutter and Dart
+- 💞️ I’m looking to collaborate on any project concerning my web and mobile app dev skills (which i'm currently learning)
+- 📫 How to reach me: @misirwot on telegram or you can email me by mikkprograms@gmail.com
